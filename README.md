@@ -18,4 +18,4 @@ Very Important Rules
 Most Important Rule
 1. Have Fun!
 
-2. Base Midi:
+2. Base Midi: Above ⬆⬆⬆
