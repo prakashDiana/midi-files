@@ -9,6 +9,7 @@ Rules:
 3. dont change anything to the base MIDI.
 4. min notes 500K and max notes 100M
 5. PPQ is 480 through 15360.
+6. member is LIMITED to 6.
 
 Very Important Rules
 1. Please! Mute your arts! I do not want a loud community merge with noisy arts.
