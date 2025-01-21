@@ -13,8 +13,9 @@ Rules:
 
 Very Important Rules
 1. Please! Mute your arts! I do not want a loud community merge with noisy arts.
-2. Do NOT take other people arts.
-3. Please black at channels B1-B16 as much as possible.
+2. No spam arts please!
+3. Do NOT take other people arts.
+4. Please black at channels B1-B16 as much as possible.
 
 Most Important Rule
 1. Have Fun!
