@@ -20,4 +20,7 @@ Very Important Rules
 Most Important Rule
 1. Have Fun!
 
-2. Base Midi: Above ⬆⬆⬆
+Base Midi: Above ⬆⬆⬆
+
+
+**Deadline:** March 14
